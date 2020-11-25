@@ -1,0 +1,113 @@
+/*In this project, you’ll be building your own basic design system for a website. In essence, 
+you’ll be building a website to help you build MORE websites in the future! On your site, you’ll collect all the colors, fonts, and some of the repeating styles.*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+.heading{
+  font-family: teko;
+  letter-spacing: 7px;
+  //text-align: center;
+  text-transform: uppercase;
+}
+.colors{
+  //display: inline;
+}
+h2{
+  font-family: teko;
+  letter-spacing: 2px;
+}
+
+.red{
+  background-color: #F03249;
+  margin: 10px;
+  padding: 10px;
+  width: 90px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: lato;
+  }
+
+.pink{
+  background-color: #FA34AF;
+  margin: 10px;
+  padding: 10px;
+  width: 90px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: lato;
+}
+
+.violet{
+  background-color: #D83BE3;
+  margin: 10px;
+  padding: 10px;
+  width: 90px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: lato;
+}
+
+.purple{
+  background-color: #B734FA;
+  margin: 10px;
+  padding: 10px;
+  width: 90px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: lato;
+}
+
+.darkblue{
+  background-color: #7C32F0;
+  margin: 10px;
+  padding: 10px;
+  width: 90px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: lato;
+}
+.fontss{
+  font-size: 20px;
+}
+.jos{
+ font-family: acme;
+}
+.caveat{
+ font-family: caveat;
+}
+.satisfy{
+ font-family: satisfy;
+}
+
+button{
+  border: none;
+  border-radius: 2px;
+  padding: 40px;
+  font-size: 15px;
+}
+button:hover{
+  cursor: pointer;
+  opacity: 80%
+}
+button:active{
+  padding-bottom: 22px;
+}
+.fac{
+  background-color: #4267B2;
+  color: white;
+}
+.insta{
+  background-color: #E1306C;
+  color: white;
+}
+.what{
+  background-color: #4AC959;
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
