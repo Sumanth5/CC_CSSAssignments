@@ -1,1 +1,1 @@
-These are the CodeCademy CSS & Html Assignments, which I have practiced.
+These are the CodeCademy CSS & Html projects, which I have practiced.
