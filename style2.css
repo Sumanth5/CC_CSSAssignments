@@ -1,0 +1,37 @@
+header{
+  background-color: black;
+  height: 69px;
+  border-bottom: 1px solid seashell;
+  overflow: fixed;
+  color: seashell;
+  font-family: helvetica;
+  font-size: 22px;
+  opacity: 0.9;
+}
+nav{
+  text-align: right;
+}
+main{
+  background-color: black;
+  border-bottom: 1px solid seashell
+  color: seashell;
+  font-family: helvetica;
+  font-size: 22px;
+
+}
+.miss2{
+    background-color: black;
+    width: 1200px;
+    text-align: center;
+}
+.logo{
+  background-color: black;
+  height: 50px;
+  margin-left: 10px;
+}
+.mission{
+  height: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
